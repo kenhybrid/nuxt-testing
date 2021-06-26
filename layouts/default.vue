@@ -76,6 +76,11 @@ export default {
           to: '/',
         },
         {
+          icon: 'mdi-home',
+          title: 'haha',
+          to: '/haha',
+        },
+        {
           icon: 'mdi-chart-bubble',
           title: 'Inspire',
           to: '/inspire',
