@@ -7,7 +7,7 @@
       fixed
       app
     >
-      <v-list>
+      <v-list dense>
         <v-list-item
           v-for="(item, i) in items"
           :key="i"
